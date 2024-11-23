@@ -163,3 +163,23 @@ and visually appealing AirBnB clone project.
   - Foster a collaborative and productive team environment.
   - Coach the team on Agile principles and practices.
   - Ensure continuous improvement within the team.
+
+### UI Component Patterns
+---
+As part of the AirBnB Clone project, we will be creating several reusable UI components to ensure a consistent and efficient development process. Below are the key components we plan to create:
+
+#### Navbar
+- **Description**: The Navbar component will serve as the main navigation bar for the application. It will provide links to different sections of the site, such as Home, Search, Bookings, and Profile.
+- **Key Features**:
+  - Responsive design to adapt to various screen sizes.
+  - Links to main sections of the application.
+  - User authentication status (e.g., login/logout buttons).
+  - Search bar for quick property searches.
+
+#### Property Card
+- **Description**: The Property Card component will display a summary of a property listing. It will be used in the Property Listing View to showcase multiple properties.
+- **Key Features**:
+  - Property image.
+  - Property title and brief description.
+  - Price per night.
+  - Rating and reviews.
