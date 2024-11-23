@@ -53,3 +53,39 @@ A user-friendly design is crucial in a booking system for several reasons:
 - **Accessibility**: Ensuring the design is accessible to all users, including those with disabilities, broadens the user base and complies with legal standards.
 
 By focusing on these design principles, we aim to create a booking system that is not only functional but also delightful to use.
+
+#### Exploring the Figma Environment
+Visit the Figma page [https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&node-type=canvas]
+
+#### Design Properties
+- **Color Styles**:
+  - Primary Color: #FF5A5F
+  - Secondary Color: #00A699
+  - Background Color: #FFFFFF
+  - Text Color: #484848
+  - Accent Color: #767676
+
+- **Typography**:
+  - **Font Family**:
+    - Primary Font: 'Circular', sans-serif
+  - **Font Weights**:
+    - Light: 300
+    - Regular: 400
+    - Medium: 500
+    - Bold: 700
+  - **Font Sizes**:
+    - Small: 12px
+    - Medium: 16px
+    - Large: 24px
+    - Extra Large: 32px
+
+#### Importance of Identifying Design Properties of a Mockup Design
+Identifying design properties of a mockup design is essential for several reasons:
+- **Consistency**: Ensures that the design remains consistent across different pages and components, providing a cohesive user experience.
+- **Efficiency**: Speeds up the development process by providing clear guidelines for developers to follow.
+- **Communication**: Facilitates better communication between designers and developers, ensuring that the final product matches the design vision.
+- **Brand Identity**: Maintains the brand's visual identity, making the application recognizable and trustworthy to users.
+- **Usability**: Helps in creating a user-friendly interface by adhering to design principles and best practices.
+
+By understanding and exploring the Figma environment, we can ensure that our design is well-documented and implemented accurately, leading to a successful
+and visually appealing AirBnB clone project.
